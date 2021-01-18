@@ -1,4 +1,4 @@
 # Trial1
 This is my trail attempt 
 this is the README file that will explain why i have made this code ect 
-This is first commit that i will make - i have done this in an alternative branch from the main branch 
+This is the second commit i will make, it has edited and removed the first commit and will hopefully be merged into the main code 
